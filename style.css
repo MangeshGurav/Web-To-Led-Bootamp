@@ -35,3 +35,10 @@ form{
     padding: 15px;
     border-radius: 10px;
 }
+
+.g-recaptcha{
+    margin-top: 10px;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+}
